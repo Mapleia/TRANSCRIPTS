@@ -1,0 +1,1052 @@
+[
+    {
+        "a": "David Dobrik.txt",
+        "b": "Dr. Mike.txt",
+        "similarity": 0.027564908783762176
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Dramastar.txt",
+        "similarity": 0.03303781272984023
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Filip Miucin.txt",
+        "similarity": 0.02814961308036833
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Fine Brother Entertainment.txt",
+        "similarity": 0.03886448671069724
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Gabi DeMartino.txt",
+        "similarity": 0.03102450617667594
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Jaclyn Hill.txt",
+        "similarity": 0.032530838758153234
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Jake Paul.txt",
+        "similarity": 0.10341283048716714
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "James Charles.txt",
+        "similarity": 0.02656253575589721
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Jefferee Star.txt",
+        "similarity": 0.027882908777296097
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.023152034137655746
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.027206752765539365
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.029334072367984597
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.027466679895283768
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.059458334836248086
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.028697254047801723
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.030606094785511687
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.09080762238498358
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.030245011932837077
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.025900857738387174
+    },
+    {
+        "a": "David Dobrik.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.032581464760099925
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Dramastar.txt",
+        "similarity": 0.03124521440684399
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Filip Miucin.txt",
+        "similarity": 0.028702302112374678
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Fine Brother Entertainment.txt",
+        "similarity": 0.03361617482698546
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Gabi DeMartino.txt",
+        "similarity": 0.028581841122169632
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Jaclyn Hill.txt",
+        "similarity": 0.027350761906623045
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Jake Paul.txt",
+        "similarity": 0.0988258531018584
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "James Charles.txt",
+        "similarity": 0.023649145248889926
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Jefferee Star.txt",
+        "similarity": 0.025298486558341597
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.023734475046479242
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.027057925513420154
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.03078345715236838
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.026243075856512955
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.05898623941183098
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.025296151292777284
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.028226400117703738
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.08697984130519283
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.026069888534568476
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.02634043199051622
+    },
+    {
+        "a": "Dr. Mike.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.030366340266201393
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Filip Miucin.txt",
+        "similarity": 0.03304750402288779
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Fine Brother Entertainment.txt",
+        "similarity": 0.034659713221922586
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Gabi DeMartino.txt",
+        "similarity": 0.03561478610565532
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Jaclyn Hill.txt",
+        "similarity": 0.029815262235593408
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Jake Paul.txt",
+        "similarity": 0.0970613936348804
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "James Charles.txt",
+        "similarity": 0.02690976752029369
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Jefferee Star.txt",
+        "similarity": 0.028530709683784388
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.029721435654313882
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.03237507556647526
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.03732410534549814
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.03168786433112686
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.06325389546275435
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.026934192314751273
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.02686698904795389
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.08742745338421899
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.027389212601141046
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.031120152065910553
+    },
+    {
+        "a": "Dramastar.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.03442508280850441
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Fine Brother Entertainment.txt",
+        "similarity": 0.03507345099113205
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Gabi DeMartino.txt",
+        "similarity": 0.03058173629098656
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Jaclyn Hill.txt",
+        "similarity": 0.032247491283905416
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Jake Paul.txt",
+        "similarity": 0.10284195944437947
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "James Charles.txt",
+        "similarity": 0.025896976660551144
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Jefferee Star.txt",
+        "similarity": 0.02582362746800278
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.02874873656257867
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.02677298664908126
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.03339262165707507
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.030992625624534545
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.060404232615786944
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.026260597324427346
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.030516847039400455
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.0893072661771342
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.02597914592944642
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.02661396162597012
+    },
+    {
+        "a": "Filip Miucin.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.03181106266738018
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Gabi DeMartino.txt",
+        "similarity": 0.03993935882860947
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Jaclyn Hill.txt",
+        "similarity": 0.028958732047874764
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Jake Paul.txt",
+        "similarity": 0.09908653097262071
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "James Charles.txt",
+        "similarity": 0.03124765450428769
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Jefferee Star.txt",
+        "similarity": 0.031361370132833286
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.035109255595450736
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.035009773171403843
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.03895892462996107
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.03507842082488399
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.06825136260554632
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.028486716670152543
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.03541826192087194
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.0940435727976769
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.030532343526617444
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.035737138480952474
+    },
+    {
+        "a": "Fine Brother Entertainment.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.032667314560532686
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Jaclyn Hill.txt",
+        "similarity": 0.03345103009915775
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Jake Paul.txt",
+        "similarity": 0.10038388778261048
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "James Charles.txt",
+        "similarity": 0.0284081005819347
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Jefferee Star.txt",
+        "similarity": 0.029330383514371793
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.029197557750400047
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.03026378881624229
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.03440832247770425
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.031088130691557136
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.05853929407347763
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.03155210822462772
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.03196774853408367
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.08772992542109843
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.03030204032223333
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.029076675733318274
+    },
+    {
+        "a": "Gabi DeMartino.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.03426855934176284
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Jake Paul.txt",
+        "similarity": 0.09144237641701293
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "James Charles.txt",
+        "similarity": 0.024065480073183453
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Jefferee Star.txt",
+        "similarity": 0.02656739311080715
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.027719842732027333
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.02864284184532198
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.037600061908606354
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.02557326391790515
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.061885433875505984
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.02330084818641217
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.02674184994133443
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.08607094951776482
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.02410560826064646
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.029524707242138046
+    },
+    {
+        "a": "Jaclyn Hill.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.029250139136067617
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "James Charles.txt",
+        "similarity": 0.09786641794317662
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Jefferee Star.txt",
+        "similarity": 0.099390459140333
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.09703412627856682
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.10366515489319758
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.10752020947642026
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.09623512538690382
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.06475858803383236
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.09798348861272195
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.09058979397100864
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.043822368648437963
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.09818940776133539
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.09892690353526497
+    },
+    {
+        "a": "Jake Paul.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.10158067167006017
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Jefferee Star.txt",
+        "similarity": 0.020723589283144456
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.022948462034436918
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.02423685819126743
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.03125142790656504
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.025202393271359928
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.05838564854272491
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.018280040035458113
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.024438857703388123
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.08393262727370374
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.018745666535268164
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.02448962453144769
+    },
+    {
+        "a": "James Charles.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.02843603648638445
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Jenna Marbles.txt",
+        "similarity": 0.024751212036860606
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.027346156373426304
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.031098656932949227
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.02693471807192084
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.05987508589160439
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.021251811190562898
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.026996871851890043
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.08520313006100987
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.019151608572197106
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.025003248130915843
+    },
+    {
+        "a": "Jefferee Star.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.029323610169015343
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Laura Lee.txt",
+        "similarity": 0.0277279261185437
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.02958128398425702
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.022336544755640775
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.05526647429909058
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.023781263114196673
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.024060867615787657
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.08224530958329114
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.026305894166933182
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.02138575261492581
+    },
+    {
+        "a": "Jenna Marbles.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.03121736915882135
+    },
+    {
+        "a": "Laura Lee.txt",
+        "b": "Logan Paul.txt",
+        "similarity": 0.03138948781616557
+    },
+    {
+        "a": "Laura Lee.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.025261154984552815
+    },
+    {
+        "a": "Laura Lee.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.06365012191082946
+    },
+    {
+        "a": "Laura Lee.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.026045719745724963
+    },
+    {
+        "a": "Laura Lee.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.031146633855641356
+    },
+    {
+        "a": "Laura Lee.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.09299123242602095
+    },
+    {
+        "a": "Laura Lee.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.025399675262434206
+    },
+    {
+        "a": "Laura Lee.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.02862456197171536
+    },
+    {
+        "a": "Laura Lee.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.026644382937078694
+    },
+    {
+        "a": "Logan Paul.txt",
+        "b": "Manny Mua.txt",
+        "similarity": 0.03389236411269549
+    },
+    {
+        "a": "Logan Paul.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.06408651098066535
+    },
+    {
+        "a": "Logan Paul.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.031977452033300845
+    },
+    {
+        "a": "Logan Paul.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.03706723502000982
+    },
+    {
+        "a": "Logan Paul.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.09587268049134293
+    },
+    {
+        "a": "Logan Paul.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.03280225240060316
+    },
+    {
+        "a": "Logan Paul.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.03286828091004216
+    },
+    {
+        "a": "Logan Paul.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.03274409571279211
+    },
+    {
+        "a": "Manny Mua.txt",
+        "b": "Pewdiepie.txt",
+        "similarity": 0.05878437400380352
+    },
+    {
+        "a": "Manny Mua.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.02623336362217605
+    },
+    {
+        "a": "Manny Mua.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.02334182365843438
+    },
+    {
+        "a": "Manny Mua.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.0866182563968049
+    },
+    {
+        "a": "Manny Mua.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.026846902879780872
+    },
+    {
+        "a": "Manny Mua.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.02247180270040264
+    },
+    {
+        "a": "Manny Mua.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.02832903752115162
+    },
+    {
+        "a": "Pewdiepie.txt",
+        "b": "Pokimane.txt",
+        "similarity": 0.059972125043190376
+    },
+    {
+        "a": "Pewdiepie.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.05755416989113533
+    },
+    {
+        "a": "Pewdiepie.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.05321408075616458
+    },
+    {
+        "a": "Pewdiepie.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.06193435391932627
+    },
+    {
+        "a": "Pewdiepie.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.05603867354879414
+    },
+    {
+        "a": "Pewdiepie.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.06511776672884184
+    },
+    {
+        "a": "Pokimane.txt",
+        "b": "Rice Gum.txt",
+        "similarity": 0.02511057030202372
+    },
+    {
+        "a": "Pokimane.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.0852849604320185
+    },
+    {
+        "a": "Pokimane.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.018217651931596652
+    },
+    {
+        "a": "Pokimane.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.025786472611612828
+    },
+    {
+        "a": "Pokimane.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.027295552643794473
+    },
+    {
+        "a": "Rice Gum.txt",
+        "b": "Shane Dawson.txt",
+        "similarity": 0.08210272473142612
+    },
+    {
+        "a": "Rice Gum.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.027275860375316468
+    },
+    {
+        "a": "Rice Gum.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.02266871124141981
+    },
+    {
+        "a": "Rice Gum.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.03381426443315181
+    },
+    {
+        "a": "Shane Dawson.txt",
+        "b": "Tati Westbrooke.txt",
+        "similarity": 0.085932381211117
+    },
+    {
+        "a": "Shane Dawson.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.08455756014657718
+    },
+    {
+        "a": "Shane Dawson.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.09399462059769025
+    },
+    {
+        "a": "Tati Westbrooke.txt",
+        "b": "Tisha Paytas.txt",
+        "similarity": 0.02679733533139472
+    },
+    {
+        "a": "Tati Westbrooke.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.027485009606449663
+    },
+    {
+        "a": "Tisha Paytas.txt",
+        "b": "Tmartin.txt",
+        "similarity": 0.03285240502690225
+    }
+]
